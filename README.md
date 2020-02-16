@@ -11,3 +11,6 @@ Florensia stores most of its data in .pak files. The treeview will allow you to 
 
 ## Screenshots
 
+![](/screenshots/image_preview.png?raw=True)
+![](/screenshots/decoded_table_preview.png?raw=True)
+![](/screenshots/save_preview.png?raw=True)
